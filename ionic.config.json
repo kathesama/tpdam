@@ -1,0 +1,7 @@
+{
+  "name": "tpdam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
